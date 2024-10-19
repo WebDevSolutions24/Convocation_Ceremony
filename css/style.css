@@ -66,6 +66,13 @@ footer .logo {
 .develop p {
 	text-align: center;
 }
+.develop a {
+	color: black;
+	text-decoration: none;
+}
+.develop a:hover {
+	color: #555555;
+}
 
 /* Responsive Media Query code for max-width: 1024px */
 
