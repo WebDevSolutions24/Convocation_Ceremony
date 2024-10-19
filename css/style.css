@@ -33,6 +33,7 @@ html{
 	display: inline-block;
 	text-transform: uppercase;
 	text-align: center;
+	margin: 20px 0;
 }
 .container .max-width .content .capital {
 	text-transform: capitalize;
